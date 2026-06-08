@@ -1,0 +1,48 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle
+.gradle/
+build/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Keystore files
+*.jks
+*.keystore
+
+# Build folders
+app/build/
+*/build/
+
+# Navigation safe args
+build/generated/source/navigation-args/
+
+# C++ builds
+.cxx/
+
+# Pruebas y Scripts (ignorar tests locales y JSON)
+*.py
+*.pyc
+__pycache__/
+*.json
+test/
+tests/
+androidTest/
+
+# Logs
+*.log
